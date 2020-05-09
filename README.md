@@ -1,11 +1,6 @@
 # DSC weekly task
 ## Covid Data District Wise
 <h2><a href="https://coviddataproject.netlify.app/">Visit site</a></h2>
-### To run the app, type npm i and then npm start 
-
-
-
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
