@@ -1,3 +1,11 @@
+# DSC weekly task
+## Covid Data District Wise
+### To run the app, type npm i and then npm start 
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
