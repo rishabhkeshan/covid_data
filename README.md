@@ -1,5 +1,5 @@
-# DSC weekly task
-## Covid Data District Wise
+
+## Covid Spread
 <h2><a href="https://coviddataproject.netlify.app/">Visit site</a></h2>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
